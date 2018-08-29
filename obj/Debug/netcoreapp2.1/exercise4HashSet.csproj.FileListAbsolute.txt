@@ -1,0 +1,11 @@
+/Users/lauren/workspace/csharp/exercise4HashSet/bin/Debug/netcoreapp2.1/exercise4HashSet.deps.json
+/Users/lauren/workspace/csharp/exercise4HashSet/bin/Debug/netcoreapp2.1/exercise4HashSet.runtimeconfig.json
+/Users/lauren/workspace/csharp/exercise4HashSet/bin/Debug/netcoreapp2.1/exercise4HashSet.runtimeconfig.dev.json
+/Users/lauren/workspace/csharp/exercise4HashSet/bin/Debug/netcoreapp2.1/exercise4HashSet.dll
+/Users/lauren/workspace/csharp/exercise4HashSet/bin/Debug/netcoreapp2.1/exercise4HashSet.pdb
+/Users/lauren/workspace/csharp/exercise4HashSet/obj/Debug/netcoreapp2.1/exercise4HashSet.csprojAssemblyReference.cache
+/Users/lauren/workspace/csharp/exercise4HashSet/obj/Debug/netcoreapp2.1/exercise4HashSet.csproj.CoreCompileInputs.cache
+/Users/lauren/workspace/csharp/exercise4HashSet/obj/Debug/netcoreapp2.1/exercise4HashSet.AssemblyInfoInputs.cache
+/Users/lauren/workspace/csharp/exercise4HashSet/obj/Debug/netcoreapp2.1/exercise4HashSet.AssemblyInfo.cs
+/Users/lauren/workspace/csharp/exercise4HashSet/obj/Debug/netcoreapp2.1/exercise4HashSet.dll
+/Users/lauren/workspace/csharp/exercise4HashSet/obj/Debug/netcoreapp2.1/exercise4HashSet.pdb
